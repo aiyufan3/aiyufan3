@@ -1,16 +1,28 @@
-## Hi there 👋
+# 3x3brainnotfound
 
-<!--
-**aiyufan3/aiyufan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=012169&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+%26+Blockchain" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+**Core Skills**: C++, Python, Machine Learning, Distributed Systems  
+**Focus Areas**: AI Agents, Blockchain Protocols, ML Frameworks  
+**Tech Stack**: React, Node.js, TensorFlow, Solidity, Docker, AWS
+
+---
+
+## Current Work
+
+- **AI Agents**: Developing intelligent autonomous systems
+- **Blockchain**: Smart contracts and DeFi protocols  
+- **Machine Learning**: Computer vision, NLP, and predictive modeling
+- **Software Architecture**: Scalable and maintainable systems design
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=aiyufan3&style=flat-square&color=012169" alt="Profile Views" />
+</div>
