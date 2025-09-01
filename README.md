@@ -1,4 +1,4 @@
-# 3x3brainnotfound
+# brain404
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=012169&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+%26+Blockchain" alt="Typing SVG" />
