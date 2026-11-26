@@ -20,8 +20,8 @@ builder of things that think, pay, and prove
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=typescript,nextjs,golang,python,langchain,solidity,docker,aws,cloudflare&theme=dark" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript,nextjs,golang,python,langchain,solidity,docker,aws,cloudflare&theme=light" alt="stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=typescript%2Cnextjs%2Cgolang%2Cpython%2Clangchain%2Csolidity%2Cdocker%2Caws%2Ccloudflare&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript%2Cnextjs%2Cgolang%2Cpython%2Clangchain%2Csolidity%2Cdocker%2Caws%2Ccloudflare&theme=light" alt="stack" />
   </picture>
 </p>
 
